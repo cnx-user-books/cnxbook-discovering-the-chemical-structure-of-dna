@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chargaff's Complimentarity and Watson &amp; Crick's Model of DNA Structure</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b004acd6-08d4-40bd-9eff-f5cfcd6a16a1</md:uuid>
+</metadata>
+  <content>
+    <para id="element-902">On the basis of his <link document="m15125" target-id="delete_me">results</link> suggesting that the nucleotides adenine and thymine occur in equal quantities in DNA (and guanine and cytosine) regardless of the species from which the DNA comes, Chargaff proposed that nucleotides are organized within the DNA molecule such that A is paired with T and C with G. Chargaff originally called this arrangement “complimentarity” but the term was later modified to “base pairing’ (Chargaff, 1971).   </para><para id="delete_me">Although a seemingly simple observation, this result played a central role in the physical model Watson and Crick proposed in 1953 to describe the macromolecular structure of DNA, that is, its three dimensional organization (<link url="http://www.nature.com/nature/dna50/archive.html">Watson and Crick, 1953</link>). 
+
+    </para><para id="element-814">Together with Rosalind Franklin and Maurice Wilkin’s <link url="http://www.nature.com/nature/dna50/archive.html">x-ray diffraction images</link> of crystallized DNA, Chargaff’s contributions allowed Crick and Watson to imagine DNA as a single molecule composed of two helical strands, each strand itself a single molecule of DNA built of nucleotides arranged single file, held together by hydrogen bonds between complimentary base pairs on opposing strands. A’s on one strand hydrogen bonded to T’s on the other, C’s to G’s and vice versa.  </para><para id="element-553">As Watson and Crick (1953) wrote,  </para><para id="element-860"><code display="block" id="idp823248"><cite><cite-title>…if an adenine forms one member of a pair on either chain, then on these assumptions,
+the other member must be thymine; similarly for cytosine and guanine…It has been found
+experimentally that the ratio of the amounts of adenine and thymine, and the ratio of
+guanine to cytosine, are always very close to unity for deoxyribose nucleic acid.</cite-title></cite>
+(<link url="http://www.nature.com/nature/dna50/archive.html">Watson and Crick, 1953</link>, p.737)</code></para><para id="element-132">The figure from Watson and Crick’s seminal paper, illustrating the proposed structure of DNA, appears in Figure 1.1. 
+ </para><figure id="element-419"><subfigure id="subfiga">
+<media id="idp10740944" alt=""><image src="../../media/Watson Crick DNA figure resized.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<subfigure id="subfigb">
+<media id="idp8680304" alt=""><image src="../../media/Watson Crick DNA strand resized.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<caption>Original figures illustrating the 1) proposed macromolecular structure of DNA from Watson and Crick’s 1953 paper:  A structure for deoxyribose nucleic acid. <cite><cite-title> Nature.</cite-title></cite> 171:737-738 and 2) proposed structure of one strand of a two-stranded DNA molecule from Watson and Crick’s follow-up paper proposing a mechanism for DNA replication: <link url="http://www.nature.com/nature/dna50/archive.html">Genetical implications of the structure of deoxyribonucleic acid.</link><cite><cite-title> Nature.</cite-title></cite> 171:964-967.</caption> </figure><para id="element-897">1. Review Watson and Crick’s written and diagrammatic descriptions of DNA. Redraw and modify figure 1.1 to specifically identify the bases A (adenine), T (thymine), C (cytosine) and G (guanine). </para><para id="element-773">2. Compare your illustration to the one found <link url="http://www.ocean.udel.edu/extreme2004/genomics/images/dnaillustration.gif">here</link> and correct it accordingly.  </para><list id="element-996" list-type="bulleted"><title>Works Cited</title>	
+<item>Chargaff, E. 1971. Preface to a grammar of biology. A hundred years of nucleic acid research.<cite><cite-title> Science.</cite-title></cite> 172:637-642.</item>
+<item>Watson, J.D. and F.H.C. Crick. 1953. A structure for deoxyribose nucleic acid. <cite><cite-title>Nature.</cite-title></cite> 171:737-738.</item>
+	<item>Watson, J.D. and F.H.C. Crick. 1953. Genetical implications of the structure of deoxyribonucleic acid.<cite><cite-title> Nature.</cite-title></cite> 171:964-967.</item>
+	</list>   
+  </content>
+  
+</document>

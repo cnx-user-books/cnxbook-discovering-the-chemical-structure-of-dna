@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chargaff's Test of  the Tetranucleotide Hypothesis</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>796bc6f6-24c6-4db9-808b-d03957c9b151</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Scientists of the early 1900's recognized that if the <link document="m15122" target-id="tetranucleotidehypoth">tetranucleotide model</link> was correct, then DNA could not differ sufficiently among species to explain the incredible diversity of heritable differences. From the biochemical perspective, proteins were a superior candidate because they were known to be both incredibly diverse and physically associated with DNA in the nucleus.
+    </para><para id="element-686">From the cell biology and genetics perspective, however, evidence continued to accumulate that DNA was responsible for heredity. One particularly significant discovery, published in 1944 by Oswald T. Avery, Colin MacLeod, and Maclyn McCarty, provided very strong evidence that DNA was responsible for inducing heritable changes in a species of bacteria (Avery et al., 1944).</para><para id="element-811">While momentous in hindsight, Avery et al.’s discovery was not particularly illuminating to the generally protein-focused biochemistry community. The biochemist Erwin Chargaff, however, reacted differently. As he later wrote, Avery et al.’s results</para><para id="element-343"><code display="block" id="idm3281760"><cite><cite-title>...almost abruptly, appeared to foreshadow a chemistry of heredity and, moreover,
+made probable the nucleic acid character of the gene.  It certainly made an impression
+on a few, not many, but probably on nobody a more profound one than on me.  For I saw
+before me in dark contours the beginning of a grammar of biology.</cite-title></cite>(Chargaff, 1971, p.639)</code></para><para id="element-964">The intellectual impact of Avery et al’s work was such that Chargaff abandoned all prior research (or completed it quickly) and refocused the efforts of his entire lab on the question of DNA.  As he wrote in 1971, </para><para id="element-28"><code display="block" id="idm1437904"><cite><cite-title>I started from the conviction that, if different DNA species exhibited different
+biological activities, there should also exist chemically demonstrable differences 
+between deoxyribonucleic acids. From the very beginning I drew an analogy to the 
+proteins in assuming that the biological activity of the nucleic acid probably rested 
+on the sequence specificity of its constituents – on the order in which the four 
+different nucleotides were arranged in the macromolecule – rather than on the 
+occurrence of new, as yet unrecognized constituents.</cite-title></cite>(Chargaff, 1971, p.639)
+</code></para><para id="element-809">Chargaff’s nearly 'insurmountable’ challenge was to develop an analytical technique to precisely and reliably quantify the nucleotide composition of DNA. Such a tool would allow him to test the idea that DNA of different species differed in nucleotide composition. Such a result would be consistent with Chargaff’s proposition, inspired by Avery et al.’s work, that DNA is biologically active, its biological activity differs among species (in that it is responsible for their different heritable phenotypes) and that its activity is conferred by the particular sequence of nucleotides.</para><para id="element-771">Let’s consider what insights the ability to quantify the relative amounts of A, T, G and C provide in relation to both the tetranucleotide model and Chargaff’s proposition above.</para><para id="element-188"><emphasis>1.</emphasis> Reconsider the <link document="m15122" target-id="tetranucleotidehypoth">tetranucleotide model</link>. 
+
+</para><para id="element-555"><emphasis>a.</emphasis> If DNA is composed of serially repeated tetranucleotides and you precisely measure the relative quantities of A, T, C and G in an organism’s DNA, what do you expect to find? Why? Please explain.
+</para><para id="element-653"><emphasis>b.</emphasis>  If DNA is composed of tetranucleotides and you compare the relative quantities of A, T, C and G (for example, the ratios of A to G or T to C) among species what would you expect to find? Why? Please explain.</para><para id="element-792"><emphasis>2.</emphasis>  Now consider Chargaff’s hypothesis.  If DNA is biologically active, its biological activity differs among species and its activity stems from the particular sequence of nucleotides, what would you expect to find if you precisely measure the relative quantities of A, T, C and G in a variety of species and compare them? Why? Please explain. </para><list id="element-208" list-type="bulleted"><title>Works Cited</title>	
+<item>Avery, O.T., C.M. MacLeod, and M. McCarty. 1944. Studies on the chemical nature of the substance inducing transformation of Pneumococcal types.<cite><cite-title>The Journal of Experimental Medicine.</cite-title></cite> 79: 137-159.</item>
+	<item>Chargaff, E. 1971. Preface to a grammar of biology. A hundred years of nucleic acid research.<cite><cite-title>Science.</cite-title></cite> 172:637-642.</item>
+	</list>   
+  </content>
+  
+</document>

@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Was the Tetranucleotide Hypothesis Supported by Quantitative Data?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>333ea2f7-efa5-4f56-83e9-fff389657942</md:uuid>
+</metadata>
+  <content>
+    <para id="element-233">In order to test his <link document="m15123" target-id="element-964">expectation</link> that the DNA of different species quantitatively differed in nucleotide composition, Chargaff’s lab spent two years, 1946-48, developing a chromatographic technique to reliably and precisely quantify the amounts of A, T, C and G that had been chemically liberated (via hydrolysis) from polymers of DNA (Chargaff, 1971).</para><para id="delete_me">So what did they find? The tables below (Figure 1) show Chargaff’s original results (1950) describing the relative quantities of A, T, C and G in DNA extracted from four different species – the ox, human, yeast and a bacterium (avian tubercle bacilli).
+    </para><figure id="element-395" orient="vertical"><subfigure id="subfig1">
+<media id="idp8419632" alt=""><image src="../../media/Table 2 p 205 resized.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<subfigure id="subfig2">
+<media id="idp12497488" alt=""><image src="../../media/Table 3 p 205 resized.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<subfigure id="subfig32">
+<media id="idm1126304" alt=""><image src="../../media/Table 4 p 205 resized.jpg" mime-type="image/jpeg"/></media>
+</subfigure>
+<caption> Original data describing the relative quantities of adenine, guanine, cytosine and thymine and total amount of these nitrogenous constituent recovered (recovery) in moles per mole of phosphorous for four different species 1.1) ox 1.2) human 1.3) yeast and a bacterium (avian tubercle bacilli). Note that for both ox and human DNA from three different types of tissue has been characterized. Each molar value represents the average of several hydrolysis experiments on DNA from the species (Chargaff, 1950). </caption>
+
+
+</figure><para id="element-365">Review the results above on a species by species basis and use this to respond to the questions below.  </para><para id="element-223"><emphasis>1.</emphasis>  Review your expectations under the tetranucleotide model as expressed in your response to <link document="m15123" target-id="element-555"> question 1a</link> in the previous module. Would you interpret Chargaff’s results (Figure 1 above) as supporting or refuting the tetranucleotide model? Please explain using data to support your conclusions.  </para><para id="element-23"><emphasis>2.</emphasis>  Levene based his tetranucleotide model on studies of DNA extracted from the thymus cells of cows from which, using very harsh chemical techniques, he recovered approximately equal quantities of A, T, C and G.  </para><para id="element-37"><emphasis>a.</emphasis>  Do Chargaff’s results appear to be consistent with Levene’s? Yes or no?  </para><para id="element-192"><emphasis>b.</emphasis>  If in part a you concluded Chargaff and Levene’s results differed, offer an explanation for this discrepancy.  </para><para id="element-836"><emphasis>c.</emphasis>  Please explain one way you could resolve the discrepancy between Levene and Chargaff’s results.  </para><para id="element-783">Chargaff also compared the relative quantities of adenine and guanine (and thymine and cytosine) among these four different species of organisms. His data appear in Figure 2.   </para><figure id="element-733"><media id="idp12695184" alt=""><image src="../../media/Table 5 p 206 Summary of A-G C-T ratios resized.jpg" mime-type="image/jpeg"/></media>
+<caption>Relative quantities (ratios) of adenine to guanine and thymine to cytosine in ox, human, yeast and a bacterium (avian tubercles bacillus).  Number of hydrolyses refers to the number of times DNA molecules were broken down into their constituent nucleotides to determine quantities of each nucleotide. Mean ratio describes the average ratio for the indicated number of hydrolyses (Chargaff, 1950). </caption> </figure><para id="element-558">Review the results depicted in Figure 2 and answer the questions below.  </para><para id="element-22"><emphasis>3.</emphasis>  Review your expectations under the tetranucleotide model as expressed in your response to <link document="m15123" target-id="element-653"> question 1b</link> in the previous module. Would you interpret Chargaff’s results, as shown in Figure 2, as supporting or refuting the tetranucleotide model? Please explain using data to support your conclusions.  </para><para id="element-352"><emphasis>4.</emphasis>  Do you agree with Chargaff’s unequivocal conclusion based on the data presented above that <cite><cite-title> “The results serve to disprove the tetranucleotide hypothesis.” </cite-title></cite>(Chargaff, 1950 p. 206)?  Why or why not? Please explain.  </para><para id="element-259"><emphasis>5.</emphasis>  Review your response to <link document="m15123" target-id="element-792"> question 2</link> in the previous module. What do you think Chargaff’s results, as shown in Figure 2 above, suggest about the potential for the composition of DNA to vary among species and thus possibly have biological activity that is based on differences in nucleotide sequence? Please explain.  </para><para id="element-663"><emphasis>6.</emphasis>  Do you agree with Chargaff’s additional conclusions (quoted below) based largely on the data above? Why or why not? Please explain.  </para><para id="element-320"><code display="block" id="idp5515728"><cite><cite-title>Generalizations in science are both necessary and hazardous; they carry a semblance of 
+finality which conceals their essentially provisional character; they drive forward, as they
+retard;they add, but they also take away. Keeping in mind all these reservations, we arrive at
+the following conclusions. The desoxypentose nucleic acids [DNA] from animal and microbial cells
+contain varying proportions of the same four nitrogenous constituents, namely, adenine, guanine,
+cytosine, thymine. Their composition appears to be characteristic of the species…..The presumption,
+therefore, is that there exists an enormous number of structurally different nucleic acids……and I
+think there will be no objection to the statement that, as far as chemical properties go, they [DNA]
+could very well serve as one of the agents, or possibly as the agent, concerned with the transmission
+of heritable properties.(Chargaff,1950, p.208)</cite-title></cite></code></para><list id="element-158" list-type="bulleted"><title> Works Cited</title>	
+<item>Chargaff, E. 1950. Chemical specificity of nucleic acids and mechanism of their enzymatic degradation. <cite><cite-title>Experientia.</cite-title></cite> 6:201-240.</item>
+	<item>Chargaff, E. 1971. Preface to a grammar of biology. A hundred years of nucleic acid research. <cite><cite-title>Science.</cite-title></cite> 172:637-642.</item>
+</list>   
+  </content>
+  
+</document>
